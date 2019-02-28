@@ -1,1 +1,10 @@
+Simple git commands
+
+git init --bear --shared                   # Institated as Central Repo #
+git init                                   # Local repository insitated"
+git add .                                  # all file add to stage area
+git commit -m "message"                    # File move from stage to local repository
+git push <path> master                     # push the file to central branch. 
+git clone <cental_Repo>                    # clone central repository
+
 
